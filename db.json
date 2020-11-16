@@ -1,13 +1,13 @@
  [
  {  
       "Name": "Lbiza",
-      "Mastery":"UMP9 ,VSS ,Vector",
-      "lifestats":"{Solo(27 kills ,2700 damage),Duo(18 kills ,20 revives ,2900 damage),Squad(10 kills ,01 revives ,2000 damage)}"
+      "Mastery":"UMP9",
+      "lifestats":"{Solo(27 kills ,2700 damage)}"
     },
     {
       
       "Name": "superNayr",
-      "Mastery":"AWM ,MicroUZI ,M416",
-      "lifestats":"{Solo(11 kills ,3400 damage),Duo(26 kills ,03 revives ,1900 damage),Squad(08 kills ,18 revives ,1000 damage)}"
+      "Mastery":"AWM",
+      "lifestats":"{Solo(11 kills ,3400 damage)}"
     }
     ]
