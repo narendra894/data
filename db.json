@@ -51,54 +51,97 @@
       "lifestats":"72kills"
     },
      {
-      "Name": "Mortal",
+      "Name": "Cruel",
       "Mastery":"M416",
       "lifestats":"42kills"
     },
    {
-      "Name": "Dynamo",
+      "Name": "Crush",
       "Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
-      "Name": "Unqgamer",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
+      "Name": "Soloplayer",
+      "Mastery":"Mini14,
+      "lifestats":"51kills"
     },
       {
       "Name": "Rock",
-      "Mastery":"M16A4",
-      "lifestats":"23kills"
+      "Mastery":"M24",
+      "lifestats":"53kills"
     },
     {
-      "Name": "Swag",
-      "Mastery":"AWM",
-      "lifestats":"72kills"
+      "Name": "Knockedyou",
+      "Mastery":"Vector",
+      "lifestats":"41kills"
     },
      {
-      "Name": "Rogue",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
+      "Name": "Nottoday",
+      "Mastery":"DP-28,
+      "lifestats":"91kills"
     },
       {
-      "Name": "Rusher",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
+      "Name": " Jonathon",
+      "Mastery":"M249",
+      "lifestats":"94kills"
     },
       {
-      "Name": "Robo",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
+      "Name": "Fast",
+      "Mastery":"MK14",
+      "lifestats":"68kills"
     },
       {
-      "Name": "Rash",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
+      "Name": "Rockzz,
+      "Mastery":"Thompson",
+      "lifestats":"100kills"
     },
       {
-      "Name": "Swift",
-      "Mastery":"AKM",
-      "lifestats":"72kills"
-    }
+      "Name": "Killme",
+      "Mastery":"Uzi",
+      "lifestats":"52kills"
+    },
+    {
+          
+      "Name": "yoonroot",
+      "Mastery":"Flaregun",
+      "lifestats":"84kills"
+    },{
+      
+      "Name": "GuCun",
+      "Mastery":"Scar-l",
+      "lifestats":"69kills"
+    },{
+      
+      "Name": "Evermore",
+      "Mastery":"PP-19Bizon",
+      "lifestats":"59kills"
+    },{
+      
+      "Name": "Neferhor",
+      "Mastery":"Win94",
+      "lifestats":"33kills"
+    },{
+      
+      "Name": "eLcapitano",
+      "Mastery":"QBZ95",
+      "lifestats":"45kills"
+    },{
+      
+      "Name": "Shade1",
+      "Mastery":"R45",
+      "lifestats":"71kills"
+    },
+    {
+      
+      "Name": "Borg",
+      "Mastery":"P18c",
+      "lifestats":"88Kills"
+    },{
+      
+      "Name": "Sweaterr",
+      "Mastery":"M762"
+      "lifestats":"23kills"
+    },
+
   ]
 }
