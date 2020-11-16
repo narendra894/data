@@ -1,21 +1,14 @@
 {
     "players": {
+        {
+        "players":"Mortal"
         "lifestats": [
             {
                 "mode": "solo",
-                "firstName": "Geraldine",
-                "lastName": "Roberts",
-                "email": "geraldine.roberts@email.com",
-                "country": "South Africa"
-            },
-            {
-                "mode": "squad",
-                "firstName": "Walter",
-                "lastName": "Mitty",
-                "email": "w.mitty@email.com",
-                "country": "USA"
+                "kills": "22"
             }
         ],
-        "weapon mastery": "http://financialsystems.sungard.com/"
+        "weapon mastery": "akm"
     }
+}
 }
