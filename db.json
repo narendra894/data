@@ -17,42 +17,6 @@
       "Name": "Kaymind",
       "Mastery":"M416 ,AKM",
       "lifestats":"Solo(20 kills ,1900 damage),Duo(10 kills ,16 revives ,1900 damage),Squad(20 kills ,18 revives ,4000 damage)"
-    },
-    {
-      
-      "Name": "Lbiza",
-      "Mastery":"UMP9 ,VSS ,Vector",
-      "lifestats":"Solo(27 kills ,2700 damage),Duo(18 kills ,20 revives ,2900 damage),Squad(10 kills ,01 revives ,2000 damage)"
-    },
-    {
-      
-      "Name": "superNayr",
-      "Mastery":"AWM ,MicroUZI ,M416",
-      "lifestats":"Solo(11 kills ,3400 damage),Duo(26 kills ,03 revives ,1900 damage),Squad(08 kills ,18 revives ,1000 damage)"
-    },
-    {
-      
-      "Name": "Danucd",
-      "Mastery":"DP-28 ,M416",
-      "lifestats":"Solo(18 kills ,2011 damage),Duo(10 kills ,11 revives ,1576 damage),Squad(18 kills ,22 revives ,3209 damage)"
-    },
-    {
-      
-      "Name": "Jeemzz",
-      "Mastery":"MK47 ,MP5K",
-      "lifestats":"Solo(13 kills ,1212 damage),Duo(26 kills ,12 revives ,2313 damage),Squad(19 kills ,13 revives ,2133 damage)"
-    },
-    {
-      
-      "Name": "Waduhek",
-      "Mastery":"Mini14 ,SKS ,M24",
-      "lifestats":"Solo(13 kills ,1200 damage),Duo(12 kills ,22 revives ,1982 damage),Squad(12 kills ,11 revives ,1222 damage)"
-    },
-    {
-      
-      "Name": "Savior",
-      "Mastery":"Kar98k ,M762",
-      "lifestats":"Solo(21 kills ,2120 damage),Duo(11 kills ,11 revives ,2100 damage),Squad(19 kills ,16 revives ,1987 damage)"
     }
 
   ]
