@@ -1,32 +1,52 @@
 {
   "players": [
     {
-      
       "Name": "Mortal",
       "Mastery":"M416",
       "lifestats":"42kills"
     },
    {
-      
       "Name": "Dynamo",
       "Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
-      
-      "Name": "unqgamer",
+      "Name": "Unqgamer",
       "Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
-      
-      "Name": "rock",
+      "Name": "Rock",
       "Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
-      
-      "Name": "killer",
+      "Name": "Swag",
+      "Mastery":"AWM",
+      "lifestats":"72kills"
+    },
+     {
+      "Name": "Rogue",
+      "Mastery":"AKM",
+      "lifestats":"72kills"
+    },
+      {
+      "Name": "Rusher",
+      "Mastery":"AKM",
+      "lifestats":"72kills"
+    },
+      {
+      "Name": "Robo",
+      "Mastery":"AKM",
+      "lifestats":"72kills"
+    },
+      {
+      "Name": "Rash",
+      "Mastery":"AKM",
+      "lifestats":"72kills"
+    },
+      {
+      "Name": "Swift",
       "Mastery":"AKM",
       "lifestats":"72kills"
     }
