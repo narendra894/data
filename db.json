@@ -3,20 +3,20 @@
     {
       
       "Name": "Mortal",
-      "Weapon Mastery":"AKM ,M416 ,Kar98 ,M249 ,S686",
-      "lifestats":"Solo(27 kills ,3400 damage),Duo(26 kills ,30 revives ,2900 damage),Squad(18 kills ,18 revives ,4000 damage)"
+      "Weapon Mastery":"M416",
+      "lifestats":"42kills"
     },
    {
       
       "Name": "Dynamo",
-      "Mastery":"M16A4 ,AWM ,S12k",
-      "lifestats":"Solo(19 kills ,1600 damage),Duo(26 kills ,30 revives ,2900 damage),Squad(18 kills ,18 revives ,4000 damage)"
+      "Mastery":"M16A4",
+      "lifestats":"23kills"
     },
     {
       
       "Name": "Kaymind",
-      "Mastery":"M416 ,AKM",
-      "lifestats":"Solo(20 kills ,1900 damage),Duo(10 kills ,16 revives ,1900 damage),Squad(20 kills ,18 revives ,4000 damage)"
+      "Mastery":"AKM",
+      "lifestats":"72kills"
     }
 
   ]
