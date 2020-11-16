@@ -1,13 +1,21 @@
- [
- {  
-      "Name": "Lbiza",
-      "Mastery":"UMP9",
-      "lifestats":["Solo(27 kills ,2700 damage)"]
-    },
-    {
-      
-      "Name": "superNayr",
-      "Mastery":"AWM",
-      "lifestats":["Solo(11 kills ,3400 damage)"]
+{
+    "players": {
+        "lifestats": [
+            {
+                "mode": "solo",
+                "firstName": "Geraldine",
+                "lastName": "Roberts",
+                "email": "geraldine.roberts@email.com",
+                "country": "South Africa"
+            },
+            {
+                "mode": "squad",
+                "firstName": "Walter",
+                "lastName": "Mitty",
+                "email": "w.mitty@email.com",
+                "country": "USA"
+            }
+        ],
+        "weapon mastery": "http://financialsystems.sungard.com/"
     }
-    ]
+}
