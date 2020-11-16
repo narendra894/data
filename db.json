@@ -75,7 +75,10 @@
       {
       "Name": "Swift",
       "Weapon_Mastery":"AKM",
-      "lifestats":"72kills"
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
     },
      {
       "Name": "Cruel",
@@ -88,9 +91,60 @@
    {
       "Name": "Crush",
       "Weapon_Mastery":"M16A4",
-      "lifestats":"23kills"
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
     },
     {
+      "Name": "Soloplayer",
+      "Weapon_Mastery":"Mini14",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M24",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Knockedyou",
+      "Weapon_Mastery":"Vector",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Nottoday",
+      "Weapon_Mastery":"DP-28",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": " Jonathon",
+      "Weapon_Mastery":"M249",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Fast",
+      "Weapon_Mastery":"MK14",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
       "Name": "Soloplayer",
       "Weapon_Mastery":"Mini14",
         "solo":"71kills ",
