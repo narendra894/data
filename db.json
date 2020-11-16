@@ -1,14 +1,217 @@
 {
-    "players": {
-        {
-        "players":"Mortal"
-        "lifestats": [
-            {
-                "mode": "solo",
-                "kills": "22"
-            }
-        ],
-        "weapon mastery": "akm"
+  "players": [
+    {
+      "Name": "Mortal",
+      "Weapon_Mastery":"M416",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+   {
+      "Name": "Dynamo",
+      "Weapon_Mastery":"M16A4",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Unqgamer",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M16A4",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Swag",
+      "Weapon_Mastery":"AWM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Rogue",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rusher",
+      "Weapon_Mastery":"AKM",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Robo",
+      "Weapon_Mastery":"AKM",
+    "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rash",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Swift",
+      "Weapon_Mastery":"AKM",
+      "lifestats":"72kills"
+    },
+     {
+      "Name": "Cruel",
+      "Weapon_Mastery":"M416",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+   {
+      "Name": "Crush",
+      "Weapon_Mastery":"M16A4",
+      "lifestats":"23kills"
+    },
+    {
+      "Name": "Soloplayer",
+      "Weapon_Mastery":"Mini14",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M24",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Knockedyou",
+      "Weapon_Mastery":"Vector",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Nottoday",
+      "Weapon_Mastery":"DP-28",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": " Jonathon",
+      "Weapon_Mastery":"M249",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Fast",
+      "Weapon_Mastery":"MK14",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rockzz,
+      "Weapon_Mastery":"Thompson",
+   "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Killme",
+      "Weapon_Mastery":"Uzi",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {  
+      "Name": "yoonroot",
+      "Weapon_Mastery":"Flaregun",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{
+      "Name": "GuCun",
+      "Weapon_Mastery":"Scar-l",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{
+      "Name": "Evermore",
+      "Weapon_Mastery":"PP-19Bizon",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{
+      "Name": "Neferhor",
+      "Weapon_Mastery":"Win94",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{
+      "Name": "eLcapitano",
+      "Weapon_Mastery":"QBZ95",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{ 
+      "Name": "Shade1",
+      "Weapon_Mastery":"R45",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name":"Borg",
+      "Weapon_Mastery":"P18c",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },{
+      "Name": "Sweaterr",
+      "Weapon_Mastery":"M762",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
     }
+  ]
 }
-}
+
