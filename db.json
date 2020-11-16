@@ -2,144 +2,137 @@
   "players": [
     {
       "Name": "Mortal",
-      "Mastery":"M416",
+      "Weapon_Mastery":"M416",
       "lifestats":"42kills"
     },
    {
       "Name": "Dynamo",
-      "Mastery":"M16A4",
+      "Weapon_Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
       "Name": "Unqgamer",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
       "Name": "Rock",
-      "Mastery":"M16A4",
+      "Weapon_Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
       "Name": "Swag",
-      "Mastery":"AWM",
+      "Weapon_Mastery":"AWM",
       "lifestats":"72kills"
     },
      {
       "Name": "Rogue",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
       "Name": "Rusher",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
       "Name": "Robo",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
       "Name": "Rash",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
       {
       "Name": "Swift",
-      "Mastery":"AKM",
+      "Weapon_Mastery":"AKM",
       "lifestats":"72kills"
     },
      {
       "Name": "Cruel",
-      "Mastery":"M416",
+      "Weapon_Mastery":"M416",
       "lifestats":"42kills"
     },
    {
       "Name": "Crush",
-      "Mastery":"M16A4",
+      "Weapon_Mastery":"M16A4",
       "lifestats":"23kills"
     },
     {
       "Name": "Soloplayer",
-      "Mastery":"Mini14,
+      "Weapon_Mastery":"Mini14",
       "lifestats":"51kills"
     },
       {
       "Name": "Rock",
-      "Mastery":"M24",
+      "Weapon_Mastery":"M24",
       "lifestats":"53kills"
     },
     {
       "Name": "Knockedyou",
-      "Mastery":"Vector",
+      "Weapon_Mastery":"Vector",
       "lifestats":"41kills"
     },
      {
       "Name": "Nottoday",
-      "Mastery":"DP-28,
+      "Weapon_Mastery":"DP-28",
       "lifestats":"91kills"
     },
       {
       "Name": " Jonathon",
-      "Mastery":"M249",
+      "Weapon_Mastery":"M249",
       "lifestats":"94kills"
     },
       {
       "Name": "Fast",
-      "Mastery":"MK14",
+      "Weapon_Mastery":"MK14",
       "lifestats":"68kills"
     },
       {
       "Name": "Rockzz,
-      "Mastery":"Thompson",
+      "Weapon_Mastery":"Thompson",
       "lifestats":"100kills"
     },
       {
       "Name": "Killme",
-      "Mastery":"Uzi",
+      "Weapon_Mastery":"Uzi",
       "lifestats":"52kills"
     },
-    {
-          
+    {  
       "Name": "yoonroot",
-      "Mastery":"Flaregun",
+      "Weapon_Mastery":"Flaregun",
       "lifestats":"84kills"
     },{
-      
       "Name": "GuCun",
-      "Mastery":"Scar-l",
+      "Weapon_Mastery":"Scar-l",
       "lifestats":"69kills"
     },{
-      
       "Name": "Evermore",
-      "Mastery":"PP-19Bizon",
+      "Weapon_Mastery":"PP-19Bizon",
       "lifestats":"59kills"
     },{
-      
       "Name": "Neferhor",
-      "Mastery":"Win94",
+      "Weapon_Mastery":"Win94",
       "lifestats":"33kills"
     },{
-      
       "Name": "eLcapitano",
-      "Mastery":"QBZ95",
+      "Weapon_Mastery":"QBZ95",
       "lifestats":"45kills"
-    },{
-      
+    },{ 
       "Name": "Shade1",
-      "Mastery":"R45",
+      "Weapon_Mastery":"R45",
       "lifestats":"71kills"
     },
     {
-      
       "Name": "Borg",
-      "Mastery":"P18c",
+      "Weapon_Mastery":"P18c",
       "lifestats":"88Kills"
     },{
       
       "Name": "Sweaterr",
-      "Mastery":"M762"
+      "Weapon_Mastery":"M762",
       "lifestats":"23kills"
     },
 
