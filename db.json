@@ -215,73 +215,7 @@
       "Name": "Chappie",
       "Mastery":"M16A4 ,Mini14",
       "lifestats":"Solo(12 kills ,1213 damage),Duo(16 kills ,22 revives ,2911 damage),Squad(22 kills ,06 revives ,2121 damage)"
-    },{
-      
-      "Name": "Haxete",
-      "Mastery":"M762 ,AKM",
-      "lifestats":"Solo(27 kills ,3221 damage),Duo(11 kills ,31 revives ,2120 damage),Squad(11 kills ,21 revives ,1131 damage)"
-    },{
-      
-      "Name": "SoliDfps",
-      "Mastery":"S12k ,AKM",
-      "lifestats":"Solo(22 kills ,3210 damage),Duo(21 kills ,11 revives ,2921 damage),Squad(12 kills ,12 revives ,2121 damage)"
-    },{
-      
-      "Name": "Linksy",
-      "Mastery":"TommyGun ,Mp5k",
-      "lifestats":"Solo(22 kills ,1200 damage),Duo(21 kills ,02 revives ,2902 damage),Squad(11 kills ,22 revives ,1930 damage)"
-    },{
-      
-      "Name": "Valliate",
-      "Mastery":"MP5k ,S1897",
-      "lifestats":"Solo(29 kills ,2929 damage),Duo(12 kills ,10 revives ,1903 damage),Squad(18 kills ,13 revives ,1313 damage)"
-    },{
-      
-      "Name": "SexyPIG",
-      "Mastery":"Kar98 ,AKM",
-      "lifestats":"Solo(10 kills ,1400 damage),Duo(21 kills ,21 revives ,2900 damage),Squad(11 kills ,10 revives ,1203 damage)"
-    },{
-      
-      "Name": "yoonroot",
-      "Mastery":"Mk14 ,M416",
-      "lifestats":"Solo(11 kills ,1211 damage),Duo(12 kills ,19 revives ,1300 damage),Squad(23 kills ,10 revives ,2353 damage)"
-    },{
-      
-      "Name": "GuCun",
-      "Mastery":"Scar-l ,Mini14",
-      "lifestats":"Solo(21 kills ,2300 damage),Duo(26 kills ,13 revives ,1209 damage),Squad(21 kills ,10 revives ,2321 damage)"
-    },{
-      
-      "Name": "Evermore",
-      "Mastery":"Vector ,PP-19Bizon",
-      "lifestats":"Solo(20 kills ,1800 damage),Duo(21 kills ,07 revives ,1020 damage),Squad(12 kills ,11 revives ,2211 damage)"
-    },{
-      
-      "Name": "Neferhor",
-      "Mastery":"Win94 ,R45 ,M249",
-      "lifestats":"Solo(10 kills ,1900 damage),Duo(21 kills ,22 revives ,2900 damage),Squad(11 kills ,12 revives ,1302 damage)"
-    },{
-      
-      "Name": "eLcapitano",
-      "Mastery":"QBZ95 ,p1911 ,Mk47 Mutant",
-      "lifestats":"Solo(24 kills ,1209 damage),Duo(21 kills ,10 revives ,2120 damage),Squad(18 kills ,13 revives ,1346 damage)"
-    },{
-      
-      "Name": "Shade1",
-      "Mastery":"SKS ,Sawed-off ,R45",
-      "lifestats":"Solo(22 kills ,2200 damage),Duo(23 kills ,19 revives ,2900 damage),Squad(28 kills ,20 revives ,2800 damage)"
-    },
-    {
-      
-      "Name": "Borg",
-      "Mastery":"P18c ,M416",
-      "lifestats":"Solo(27 kills ,2400 damage),Duo(21 kills ,30 revives ,2900 damage),Squad(28 kills ,09 revives ,3200 damage)"
-    },{
-      
-      "Name": "Sweaterr",
-      "Mastery":"m416 ,M762 ,M24",
-      "lifestats":"Solo(19 kills ,1600 damage),Duo(15 kills ,17 revives ,2900 damage),Squad(21 kills ,10 revives ,2908 damage)"
-    },
+    }
 
   ]
 }
