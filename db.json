@@ -1,207 +1,121 @@
 {
   "players": [
     {
-      "Name": "Mortal",
-      "Weapon_Mastery":"M416",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-   {
-      "Name": "Dynamo",
-      "Weapon_Mastery":"M16A4",
-      "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
+      {
+      
+      	"Name": "Boom",
+      	"Weapon_Mastery":"CrossBow",
+      	"Solo":"27 kills","Duo":"26 kills","Squad":"22 kills",
+	"AverageDamage":"3133 damage"
+    },{
+      
+      	"Name": "Balloc",
+      	"Weapon_Mastery":"DP-28 ,UMP45",
+      	"Solo":"22 kills","Duo":"13 kills","Squad":"10 kills",
+	"AverageDamage":"1211 damage"
+    },{
+      
+      	"Name": "Onuqtive",
+      	"Weapon_Mastery":"Groza",
+      	"Solo":"27 kills","Duo":"16 kills","Squad":"21 kills",
+	"AverageDamage":"1233 damage"
+    },{
+      
+      	"Name": "Chappie",
+      	"Weapon_Mastery":"M16A4",
+      	"Solo":"12 kills","Duo":"16 kills","Squad":"22 kills",
+	"AverageDamage":"2121 damage"
+    },{
+      
+      	"Name": "Haxete",
+      	"Weapon_Mastery":"AKM",
+      	"Solo":"27 kills","Duo":"11 kills","Squad":"11 kills",
+	"AverageDamage":"1131 damage"
+    },{
+      
+      	"Name": "SoliDfps",
+      	"Weapon_Mastery":"S12k",
+      	"Solo":"22 kills","Duo":"21 kills","Squad":"12 kills",
+	"AverageDamage":"2121 damage"
+    },{
+      
+      	"Name": "Linksy",
+      	"Weapon_Mastery":"TommyGun",
+      	"Solo":"22 kills","Duo":"21 kills","Squad":"11 kills",
+	"AverageDamage":"1930 damage"
+    },{
+      
+      	"Name": "Valliate",
+      	"Weapon_Mastery":"S1897",
+      	"Solo":"29 kills","Duo":"12 kills","Squad":"18 kills",
+	"AverageDamage":"1313 damage"
+    },{
+      
+      	"Name": "SexyPIG",
+      	"Weapon_Mastery":"Kar98k",
+      	"Solo":"10 kills","Duo":"21 kills","Squad":"11 kills",
+	"AverageDamage":"1203 damage"
+    },{
+      
+      	"Name": "yoonroot",
+      	"Weapon_Mastery":"Mk14",
+      	"Solo":"11 kills","Duo":"12 kills","Squad":"23 kills",
+	"AverageDamage":"2353 damage"
+    },{
+      
+      	"Name": "GuCun",
+      	"Weapon_Mastery":"Scar-l",
+      	"Solo":"21 kills","Duo":"26 kills","Squad":"21 kills",
+	"AverageDamage":"2321 damage"
+    },{
+      
+      	"Name": "Evermore",
+      	"Weapon_Mastery":"Vector",
+      	"Solo":"20 kills","Duo":"21 kills","Squad":"12 kills",
+	"AverageDamage":"2211 damage"
+    },{
+      
+      	"Name": "Neferhor",
+      	"Weapon_Mastery":"Win94",
+      	"Solo":"10 kills","Duo":"21 kills","Squad":"11 kills",
+	"AverageDamage":"1302 damage"
+    },{
+      
+      	"Name": "eLcapitano",
+      	"Weapon_Mastery":"Mk47 Mutant",
+      	"Solo":"24 kills","Duo":"21 kills","Squad":"18 kills",
+	"AverageDamage":"1346 damage"
+    },{
+      
+      	"Name": "Shade1",
+      	"Weapon_Mastery":"Sawed-off",
+      	"Solo":"22 kills","Duo":"23 kills","Squad":"28 kills",
+	"AverageDamage":"2800 damage"
     },
     {
-      "Name": "Unqgamer",
-      "Weapon_Mastery":"AKM",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
+      
+      	"Name": "Borg",
+      	"Weapon_Mastery":"P18c",
+      	"Solo":"27 kills","Duo":"21 kills","Squad":"28 kills",
+	"AverageDamage":"3200 damage"
+    },{
+      
+      	"Name": "Sweaterr",
+      	"Weapon_Mastery":"M762",
+	"Solo":"19 kills","Duo":"15 kills","Squad":"21 kills",
+	"AverageDamage":"2908 damage"
     },
-      {
-      "Name": "Rock",
-      "Weapon_Mastery":"M16A4",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-    {
-      "Name": "Swag",
-      "Weapon_Mastery":"AWM",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-     {
-      "Name": "Rogue",
-      "Weapon_Mastery":"AKM",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Rusher",
-      "Weapon_Mastery":"AKM",
-       "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Robo",
-      "Weapon_Mastery":"AKM",
-    "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Rash",
-      "Weapon_Mastery":"AKM",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Swift",
-      "Weapon_Mastery":"AKM",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-     {
-      "Name": "Cruel",
-      "Weapon_Mastery":"M416",
-      "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-   {
-      "Name": "Crush",
-      "Weapon_Mastery":"M16A4",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-    {
-      "Name": "Soloplayer",
-      "Weapon_Mastery":"Mini14",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Rock",
-      "Weapon_Mastery":"M24",
-       "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-    {
-      "Name": "Knockedyou",
-      "Weapon_Mastery":"Vector",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-     {
-      "Name": "Nottoday",
-      "Weapon_Mastery":"DP-28",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": " Jonathon",
-      "Weapon_Mastery":"M249",
-       "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Fast",
-      "Weapon_Mastery":"MK14",
-      "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-     {
-      "Name": "Soloplayer",
-      "Weapon_Mastery":"Mini14",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Rock",
-      "Weapon_Mastery":"M24",
-       "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-    {
-      "Name": "Knockedyou",
-      "Weapon_Mastery":"Vector",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-     {
-      "Name": "Nottoday",
-      "Weapon_Mastery":"DP-28",
-        "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": " Jonathon",
-      "Weapon_Mastery":"M249",
-       "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
-      {
-      "Name": "Fast",
-      "Weapon_Mastery":"MK14",
-      "solo":"71kills ",
-       "Duo":"18kills",
-       "Squad":"45kills",
-       "AverageDamage":"25%"
-    },
+
     {
       	"Name": "Knockedyou",
-      	"Weapon Mastery":"AKM ",
+      	"Weapon_Mastery":"AKM ",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"18 kills",
       	"AverageDamage":"3000 damage"
     },
    {
       
       	"Name": "sexypig",
-      	"Mastery":"S12k",
+      	"Weapon_Mastery":"S12k",
       	"Solo":"19 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
 	
@@ -209,14 +123,14 @@
     {
       
       	"Name": "Kaymind",
-      	"Mastery":"AKM",
+      	"Weapon_Mastery":"AKM",
       	"Solo":"20 kills","Duo":"10 kills","Squad":"20 kills",
 	"AverageDamage":"4000 damage"
     },
     {
       
       	"Name": "Lbiza",
-      	"Mastery":"UMP9",
+      	"Weapon_Mastery":"UMP9",
       	"Solo":"27 kills","Duo":"18 kills","Squad":"10 kills",
 	"AverageDamage":"2000 damage"
     }
