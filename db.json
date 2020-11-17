@@ -432,7 +432,7 @@
       
       	"Name": "Balloc",
       	"Mastery":"DP-28 ,UMP45",
-      	"Solo:22 kills,Duo:13 kills,Squad:10 kills",
+      	"Solo":"22 kills","Duo":"13 kills","Squad":"10 kills",
 	"AverageDamage":"1211 damage"
     },{
       
