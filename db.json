@@ -193,14 +193,14 @@
        "AverageDamage":"25%"
     },
     {
-      	"Name": "Mortal",
+      	"Name": "Knockedyou",
       	"Weapon Mastery":"AKM ",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"18 kills",
       	"AverageDamage":"3000 damage"
     },
    {
       
-      	"Name": "Dynamo",
+      	"Name": "sexypig",
       	"Mastery":"S12k",
       	"Solo":"19 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
@@ -219,87 +219,8 @@
       	"Mastery":"UMP9",
       	"Solo":"27 kills","Duo":"18 kills","Squad":"10 kills",
 	"AverageDamage":"2000 damage"
-    },
-    {
-      
-      	"Name": "superNayr",
-      	"Mastery":"AWM ,MicroUZI ,M416",
-      	"Solo":"11 kills","Duo":"26 kills","Squad":"08 kills",
-	"AverageDamage":"1000 damage"
-    },
-    {
-      
-      	"Name": "Danucd",
-      	"Mastery":"DP-28",
-      	"Solo":"18 kills","Duo":"10 kills","Squad":"18 kills",
-	"AverageDamage":"3209 damage"
-    },
-    {
-      
-      	"Name": "Jeemzz",
-      	"Mastery":"MP5K",
-      	"Solo":"13 kills","Duo":"26 kills","Squad":"19 kills",
-	"AverageDamage":"2133 damage"
-    },
-    {
-      
-      	"Name": "Waduhek",
-      	"Mastery":"Mini14",
-      	"Solo":"13 kills","Duo":"12 kills","Squad":"12 kills",
-	"AverageDamage":"1222 damage"
-    },
-    {
-      
-      	"Name": "Savior",
-      	"Mastery":"M762",
-      	"Solo":"21 kills","Duo":"11 kills","Squad":"19 kills",
-	"AverageDamage":"1987 damage"
-    },
-    {
-      
-      	"Name": "lurn",
-      	"Mastery":"SLR",
-      	"Solo":"17 kills","Duo":"12 kills","Squad":"18 kills",
-	"AverageDamage":"1218 damage"
-    },
-    {
-      
-      	"Name": "Hydraflick",
-      	"Mastery":"AUG A3",
-      	"Solo":"21 kills","Duo":"26 kills","Squad":"11 kills",
-	"AverageDamage":"2010 damage"
-    },
-    {
-      
-      	"Name": "ubah",
-      	"Mastery":"G36c",
-      	"Solo":"12 kills","Duo":"16 kills","Squad":"11 kills",
-	"AverageDamage":"1324 damage"
-    },
-    {
-      
-      	"Name": "Frogman1",
-      	"Mastery":"Skorpion",
-      	"Solo":"27 kills","Duo":"26 kills","Squad":"11 kills",
-	"AverageDamage":"1200 damage"
-    },
-    {
-      
-      	"Name": "Mithrain",
-      	"Mastery":"P18c",
-      	"Solo":"21 kills","Duo":"19 kills","Squad":"18 kills",
-	"AverageDamage":"1113 damage"
-    },
-    {
-      
-      	"Name": "fuzzface",
-      	"Mastery":"P1911",
-      	"Solo":"21 kills","Duo":"26 kills","Squad":"18 kills",
-	"AverageDamage":"2300 damage"
     }
 
-  ]
-}
   ]
 }
 
