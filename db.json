@@ -1,16 +1,207 @@
 {
   "players": [
     {
-      
+      "Name": "Mortal",
+      "Weapon_Mastery":"M416",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+   {
+      "Name": "Dynamo",
+      "Weapon_Mastery":"M16A4",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Unqgamer",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M16A4",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Swag",
+      "Weapon_Mastery":"AWM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Rogue",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rusher",
+      "Weapon_Mastery":"AKM",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Robo",
+      "Weapon_Mastery":"AKM",
+    "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rash",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Swift",
+      "Weapon_Mastery":"AKM",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Cruel",
+      "Weapon_Mastery":"M416",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+   {
+      "Name": "Crush",
+      "Weapon_Mastery":"M16A4",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Soloplayer",
+      "Weapon_Mastery":"Mini14",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M24",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Knockedyou",
+      "Weapon_Mastery":"Vector",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Nottoday",
+      "Weapon_Mastery":"DP-28",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": " Jonathon",
+      "Weapon_Mastery":"M249",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Fast",
+      "Weapon_Mastery":"MK14",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Soloplayer",
+      "Weapon_Mastery":"Mini14",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Rock",
+      "Weapon_Mastery":"M24",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
+      "Name": "Knockedyou",
+      "Weapon_Mastery":"Vector",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+     {
+      "Name": "Nottoday",
+      "Weapon_Mastery":"DP-28",
+        "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": " Jonathon",
+      "Weapon_Mastery":"M249",
+       "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+      {
+      "Name": "Fast",
+      "Weapon_Mastery":"MK14",
+      "solo":"71kills ",
+       "Duo":"18kills",
+       "Squad":"45kills",
+       "AverageDamage":"25%"
+    },
+    {
       	"Name": "Mortal",
-      	"Weapon Mastery":["AKM ,M416 ,Kar98 ,M249 ,S686"],
+      	"Weapon Mastery":"AKM ",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"18 kills",
       	"AverageDamage":"3000 damage"
     },
    {
       
       	"Name": "Dynamo",
-      	"Mastery":["M16A4 ,AWM ,S12k"],
+      	"Mastery":"S12k",
       	"Solo":"19 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
 	
@@ -18,119 +209,119 @@
     {
       
       	"Name": "Kaymind",
-      	"Mastery":["M416 ,AKM"],
+      	"Mastery":"AKM",
       	"Solo":"20 kills","Duo":"10 kills","Squad":"20 kills",
 	"AverageDamage":"4000 damage"
     },
     {
       
       	"Name": "Lbiza",
-      	"Mastery":["UMP9 ,VSS ,Vector"],
+      	"Mastery":"UMP9",
       	"Solo":"27 kills","Duo":"18 kills","Squad":"10 kills",
 	"AverageDamage":"2000 damage"
     },
     {
       
       	"Name": "superNayr",
-      	"Mastery":["AWM ,MicroUZI ,M416"],
+      	"Mastery":"AWM ,MicroUZI ,M416",
       	"Solo":"11 kills","Duo":"26 kills","Squad":"08 kills",
 	"AverageDamage":"1000 damage"
     },
     {
       
       	"Name": "Danucd",
-      	"Mastery":["DP-28 ,M416"],
+      	"Mastery":"DP-28",
       	"Solo":"18 kills","Duo":"10 kills","Squad":"18 kills",
 	"AverageDamage":"3209 damage"
     },
     {
       
       	"Name": "Jeemzz",
-      	"Mastery":["MK47 ,MP5K"],
-      	"Solo":"13 kills","Duo":"26 kills","Squad":19 kills",
+      	"Mastery":"MP5K",
+      	"Solo":"13 kills","Duo":"26 kills","Squad":"19 kills",
 	"AverageDamage":"2133 damage"
     },
     {
       
       	"Name": "Waduhek",
-      	"Mastery":["Mini14 ,SKS ,M24"],
+      	"Mastery":"Mini14",
       	"Solo":"13 kills","Duo":"12 kills","Squad":"12 kills",
 	"AverageDamage":"1222 damage"
     },
     {
       
       	"Name": "Savior",
-      	"Mastery":["Kar98k ,M762"],
+      	"Mastery":"M762",
       	"Solo":"21 kills","Duo":"11 kills","Squad":"19 kills",
 	"AverageDamage":"1987 damage"
     },
     {
       
       	"Name": "lurn",
-      	"Mastery":" Groza ,SLR",
+      	"Mastery":"SLR",
       	"Solo":"17 kills","Duo":"12 kills","Squad":"18 kills",
 	"AverageDamage":"1218 damage"
     },
     {
       
       	"Name": "Hydraflick",
-      	"Mastery":["DP-28 ,AUG A3 ,M416"],
+      	"Mastery":"AUG A3",
       	"Solo":"21 kills","Duo":"26 kills","Squad":"11 kills",
 	"AverageDamage":"2010 damage"
     },
     {
       
       	"Name": "ubah",
-      	"Mastery":["M24 ,G36c"],
+      	"Mastery":"G36c",
       	"Solo":"12 kills","Duo":"16 kills","Squad":"11 kills",
 	"AverageDamage":"1324 damage"
     },
     {
       
       	"Name": "Frogman1",
-      	"Mastery":["Skorpion ,Mk14 ,MiniUZI"],
+      	"Mastery":"Skorpion",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"11 kills",
 	"AverageDamage":"1200 damage"
     },
     {
       
       	"Name": "Mithrain",
-      	"Mastery":["PP-19Bizon ,S686 ,P18c"],
+      	"Mastery":"P18c",
       	"Solo":"21 kills","Duo":"19 kills","Squad":"18 kills",
 	"AverageDamage":"1113 damage"
     },
     {
       
       	"Name": "fuzzface",
-      	"Mastery":["P1911 ,M16A4 ,QBZ95"],
+      	"Mastery":"P1911",
       	"Solo":"21 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"2300 damage"
     },
     {
       
       	"Name": "Iflicks",
-      	"Mastery":["G36C ,M16A4 ,R1895"],
+      	"Mastery":"G36C",
       	"Solo":"12 kills","Duo":"13 kills","Squad":"18 kills",
 	"AverageDamage":"2420 damage"
     },
     {
       
       	"Name": "Dr DisRespect",
-      	"Mastery":["AKM ,M416 ,Kar98k"],
+      	"Mastery":"Kar98k",
       	"Solo":"21 kills","Duo":"23 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
     },
     {
       
       	"Name": "Tecnosh",
-      	"Mastery":["Sacr-L ,Mini14"],
+      	"Mastery":"Mini14",
       	"Solo":"25 kills","Duo":"22 kills","Squad":"20 kills",
 	"AverageDamage":"3000 damage"
     },
     {
       
       	"Name": "Jembty",
-      	"Mastery":["M416,Sacr-L"],
+      	"Mastery":"M416",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"2810 damage"
     },
@@ -144,197 +335,200 @@
     {
       
       	"Name": "Shiv",
-      	"Mastery":["AKM ,Kar98k"],
+      	"Mastery":"AKM ,Kar98k",
       	"Solo":"22 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
     },
     {
       
       	"Name": "Sambty",
-      	"Mastery":["Sacr-l ,Mini14"],
+      	"Mastery":"Sacr-l ,Mini14",
       	"Solo":"11 kills","Duo":"26 kills","Squad":"31 kills",
 	"AverageDamage":"4000 damage"
     },
     {
       
       	"Name": "PrOphie",
-      	"Mastery":["M416 ,AKM"],
+      	"Mastery":"M416",
       	"Solo":"13 kills","Duo":"23 kills","Squad":"23 kills",
 	"AverageDamage":"3310 damage"
     },
 {
       
       	"Name": "mxey",
-      	"Mastery":["microUZI ,Vector"],
+      	"Mastery":"microUZI",
       	"Solo":"19 kills","Duo":"13 kills","Squad":"29 kills",
 	"AverageDamage":"2320 damage"
     },
 {
       
       	"Name": "Break",
-      	"Mastery":["S12k ,AKM"],
+      	"Mastery":"S12k",
       	"Solo":"13 kills","Duo":"16 kills","Squad":"18 kills",
 	"AverageDamage":"1313 damage"
     },
 {
       
       	"Name": "POKOMOLODOY",
-      	"Mastery":["CrossBow ,PP-19Bizon"],
+      	"Mastery":"PP-19Bizon",
       	"Solo":"13 kills","Duo":"19 kills","Squad":"13 kills",
 	"AverageDamage":"1310 damage"
     },{
       
       	"Name": "Scoom",
-      	"Mastery":["M249 ,QBU"],
+      	"Mastery":"QBU",
       	"Solo":"10 kills","Duo":"16 kills","Squad":"28 kills",
 	"AverageDamage":"2424 damage"
     },{
       
       	"Name": "Taikonn",
-      	"Mastery":["Scar -l ,Mini14"],
+      	"Mastery":"Mini14",
       	"Solo":"31 kills","Duo":"21 kills","Squad":"13 kills",
 	"AverageDamage":"1410 damage"
     },{
       
       	"Name": "mOnKey",
-      	"Mastery":["Kar98k ,AKM"],
+      	"Mastery":"Kar98k",
       	"Solo":"21 kills","Duo":"12 kills","Squad":"18 kills",
 	"AverageDamage":"2420 damage"
     },{
       
       	"Name": "CPT",
-      	"Mastery":["AKM ,Groza"],
+      	"Mastery":"Groza",
       	"Solo":"20 kills","Duo":"26 kills","Squad":"18 kills",
 	"AverageDamage":"4000 damage"
     },{
       
       	"Name": "ESTH3R",
-      	"Mastery":["M416 ,M24"],
+      	"Mastery":"M24",
       	"Solo":"27 kills","Duo":"21 kills","Squad":"23 kills",
 	"AverageDamage":"3230 damage"
     },{
       
       	"Name": "Drainys",
-      	"Mastery":["AWM ,M416"],
+      	"Mastery":"AWM",
       	"Solo":"21 kills","Duo":"26 kills","Squad":"29 kills",
 	"AverageDamage":"3330 damage"
 	
     },{
       
       	"Name": "Miccoy",
-      	"Mastery":["MicroUZI ,M416"],
+      	"Mastery":"MicroUZI",
       	"Solo":"23 kills","Duo":"13 kills","Squad":"12 kills",
 	"AverageDamage":"3110 damage"
     },{
       
       	"Name": "YaBoiDre",
-      	"Mastery":["M24 ,M416 ,Groza"],
+      	"Mastery":"M24",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"20 kills",
 	"AverageDamage":"1131 damage"
     },{
       
       	"Name": "Boom",
-      	"Mastery":["CrossBow ,Mk14"],
+      	"Mastery":"CrossBow",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"22 kills",
 	"AverageDamage":"3133 damage"
     },{
       
       	"Name": "Balloc",
-      	"Mastery":["DP-28 ,UMP45"],
-      	"Solo(22 kills),Duo(13 kills),Squad(10 kills)",
+      	"Mastery":"DP-28 ,UMP45",
+      	"Solo":"22 kills","Duo":"13 kills","Squad":"10 kills",
 	"AverageDamage":"1211 damage"
     },{
       
       	"Name": "Onuqtive",
-      	"Mastery":["Groza ,M24"],
+      	"Mastery":"Groza",
       	"Solo":"27 kills","Duo":"16 kills","Squad":"21 kills",
 	"AverageDamage":"1233 damage"
     },{
       
       	"Name": "Chappie",
-      	"Mastery":["M16A4 ,Mini14"],
+      	"Mastery":"M16A4",
       	"Solo":"12 kills","Duo":"16 kills","Squad":"22 kills",
 	"AverageDamage":"2121 damage"
     },{
       
       	"Name": "Haxete",
-      	"Mastery":["M762 ,AKM"],
+      	"Mastery":"AKM",
       	"Solo":"27 kills","Duo":"11 kills","Squad":"11 kills",
 	"AverageDamage":"1131 damage"
     },{
       
       	"Name": "SoliDfps",
-      	"Mastery":["S12k ,AKM"],
+      	"Mastery":"S12k",
       	"Solo":"22 kills","Duo":"21 kills","Squad":"12 kills",
 	"AverageDamage":"2121 damage"
     },{
       
       	"Name": "Linksy",
-      	"Mastery":"[TommyGun ,Mp5k"],
+      	"Mastery":"TommyGun",
       	"Solo":"22 kills","Duo":"21 kills","Squad":"11 kills",
 	"AverageDamage":"1930 damage"
     },{
       
       	"Name": "Valliate",
-      	"Mastery":["MP5k ,S1897"],
+      	"Mastery":"S1897",
       	"Solo":"29 kills","Duo":"12 kills","Squad":"18 kills",
 	"AverageDamage":"1313 damage"
     },{
       
       	"Name": "SexyPIG",
-      	"Mastery":["Kar98 ,AKM"],
-      	"Solo":"10 kills","Duo":"21 kills",Squad(11 kills)",
+      	"Mastery":"Kar98k",
+      	"Solo":"10 kills","Duo":"21 kills","Squad":"11 kills",
 	"AverageDamage":"1203 damage"
     },{
       
       	"Name": "yoonroot",
-      	"Mastery":["Mk14 ,M416"],
+      	"Mastery":"Mk14",
       	"Solo":"11 kills","Duo":"12 kills","Squad":"23 kills",
 	"AverageDamage":"2353 damage"
     },{
       
       	"Name": "GuCun",
-      	"Mastery":["Scar-l ,Mini14"],
+      	"Mastery":"Scar-l",
       	"Solo":"21 kills","Duo":"26 kills","Squad":"21 kills",
 	"AverageDamage":"2321 damage"
     },{
       
       	"Name": "Evermore",
-      	"Mastery":["Vector ,PP-19Bizon"],
+      	"Mastery":"Vector",
       	"Solo":"20 kills","Duo":"21 kills","Squad":"12 kills",
 	"AverageDamage":"2211 damage"
     },{
       
       	"Name": "Neferhor",
-      	"Mastery":["Win94 ,R45 ,M249"],
+      	"Mastery":"Win94",
       	"Solo":"10 kills","Duo":"21 kills","Squad":"11 kills",
 	"AverageDamage":"1302 damage"
     },{
       
       	"Name": "eLcapitano",
-      	"Mastery":["QBZ95 ,p1911 ,Mk47 Mutant"],
+      	"Mastery":"Mk47 Mutant",
       	"Solo":"24 kills","Duo":"21 kills","Squad":"18 kills",
 	"AverageDamage":"1346 damage"
     },{
       
       	"Name": "Shade1",
-      	"Mastery":["SKS ,Sawed-off ,R45"],
+      	"Mastery":"Sawed-off",
       	"Solo":"22 kills","Duo":"23 kills","Squad":"28 kills",
 	"AverageDamage":"2800 damage"
     },
     {
       
       	"Name": "Borg",
-      	"Mastery":["P18c ,M416"],
+      	"Mastery":"P18c",
       	"Solo":"27 kills","Duo":"21 kills","Squad":"28 kills",
 	"AverageDamage":"3200 damage"
     },{
       
       	"Name": "Sweaterr",
-      	"Mastery":["m416 ,M762 ,M24"],
+      	"Mastery":"M762",
 	"Solo":"19 kills","Duo":"15 kills","Squad":"21 kills",
 	"AverageDamage":"2908 damage"
     },
 
   ]
 }
+  ]
+}
+
