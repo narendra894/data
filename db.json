@@ -1,8 +1,6 @@
 {
   "players": [
     {
-      {
-      
       	"Name": "Boom",
       	"Weapon_Mastery":"CrossBow",
       	"Solo":"27 kills","Duo":"26 kills","Squad":"22 kills",
